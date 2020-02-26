@@ -41,10 +41,7 @@ zip: String (255.0)
 
 
 
-<Geocoder url:"https://geocode.gis.lacounty.gov/geocode/rest/services/CAMS_Locator_Nationwide/GeocodeServer">
-<Geocoder url:"https://utility.arcgis.com/usrsvcs/servers/b52814dc39c24385ba0f9cbe7b3e9eda/rest/services/World/GeocodeServer">
-<Geocoder url:"http://geocode.gis.lacounty.gov/geocode/rest/services/CAMS_Locator_Nationwide/GeocodeServer">
-jh agol: https://utility.arcgis.com/usrsvcs/servers/57f7519aa2c441dfb2c3de1552184c80/rest/services/World/GeocodeServer
+
 
 
 addresses= [{
