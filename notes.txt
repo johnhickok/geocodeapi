@@ -1,0 +1,15 @@
+2020-02-21 Docs
+
+geocode: https://developers.arcgis.com/python/guide/using-the-geocode-function/
+
+batch geocode: https://developers.arcgis.com/python/guide/batch-geocoding/
+
+agol authentication: https://developers.arcgis.com/python/guide/working-with-different-authentication-schemes/
+
+ 
+
+# easiest way to log in
+
+from arcgis import GIS
+
+gis = GIS("pro")
