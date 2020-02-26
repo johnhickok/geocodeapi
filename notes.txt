@@ -1,6 +1,7 @@
 2020-02-21 Docs
 
 geocode: https://developers.arcgis.com/python/guide/using-the-geocode-function/
+geocode addresses: https://pro.arcgis.com/en/pro-app/tool-reference/geocoding/geocode-addresses.htm
 
 batch geocode: https://developers.arcgis.com/python/guide/batch-geocoding/
 
